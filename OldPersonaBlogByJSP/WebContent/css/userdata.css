@@ -1,0 +1,9 @@
+@charset "UTF-8";
+html,body{margin:0;padding:0;width:240px;height:320px;}
+body{border:1px solid;}
+img{width:65px;height:65px;}
+.tx{width:65px;height:65px;border:1px solid;float:left;margin:3px;}
+.gtail{border:1px solid;width:220px;height:118px;margin:0 auto;margin-top:3px;padding:3px;}
+.ctx{border:1px solid;width:220px;height:118px;margin:0 auto;margin-top:3px;padding:3px;}
+.right{height:70px;}
+a{float:right;}

@@ -1,0 +1,115 @@
+/*兼容性*/
+body,form,ul,li,p,img{padding :0;margin:0;}
+body{font-family:微软雅黑;}
+/*登录窗口*/
+.login
+{
+	width:65px;
+	height:65px;
+	position:fixed;
+	z-index:10;
+	top:30%;
+	right:3px;
+	margin:1px;
+	border:1px solid;
+}
+.login img
+{
+	width:65px;
+	height:65px;
+}
+iframe
+{
+	border:1px solid ;
+	width:240px;
+	height:320px;
+	top:30%;
+	right:70px;
+	z-index:10;
+	position:fixed;
+
+}
+/*头部*/
+.header
+{
+	width:auto;
+	height:100px;
+	background-image:url(../img/header.jpg);
+	padding-left:10%;
+}
+/*LOGO*/
+.logo
+{	
+	float:left;
+	width:200px;
+	padding-top:20px;
+}
+/*顶部导航条*/
+.header ul
+{
+    float: right;
+	padding-top:35px;
+	padding-right:10%;
+}
+.header ul li
+{
+	display: inline-block;
+	padding:0px 24px;
+    
+}
+.header ul li a
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.top-nav ul li a:hover
+{
+    color: #FFA500;/*橙色#FFA500*/
+}
+
+/*底部*/
+.footer
+{
+	width:100%;
+	height:200px;
+	background-image:url(../img/foot.jpg);
+	color: #fff;
+}
+.footer ul
+{
+	width:518px;
+	margin:0px auto;
+}
+.footer ul li
+{
+	display: inline-block;
+	margin:20px;
+    
+}
+.footer ul li a
+{
+    font-size: 16px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.footer ul li a:hover
+{
+    color: #FFA500;/*橙色#FFA500*/
+}
+.zzq
+{
+	text-align:center;
+	width:550px;
+	font-size:14px;
+	margin:0 auto;
+}
+.dianji
+{
+	text-align:center;
+	width:550px;
+	font-size:16px;
+	margin:10px auto;
+}

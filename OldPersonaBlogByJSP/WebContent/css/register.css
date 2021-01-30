@@ -1,0 +1,43 @@
+html,body,ul,li{margin:0;padding:0;}
+html,body{width:240px;height:320px;}
+h1{text-align:center;padding-top:2%}
+ul
+{	
+	padding-left:0px;
+	margin:0 auto;
+	width:190px;
+}
+li
+{
+	width:190px;
+	display: inline-block;
+}
+.tishi
+{
+	width:190px;
+	text-align:right;
+	font-size:12px;
+	float:right;
+}
+.kuang
+{   
+	float:right;
+	width:120px;
+	
+}
+.wenzi
+{
+	float:left;
+	width:70px;
+	text-align:right;
+}
+.button
+{
+	width:164px;
+	margin:0 auto;
+}
+
+.button input
+{
+	width:80px;
+}

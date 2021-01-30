@@ -1,0 +1,51 @@
+.mbody
+{
+	width:1000px;
+	margin:0 auto;
+	
+}
+.leftbody
+{
+	width:690px;
+	float:left;
+	padding:10px 5px;
+	
+}
+
+.rightbody
+{
+	border:1px solid #5B5B5B;
+	width:290px;
+	float:left;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-top:30px;
+}
+.rightbody ul 
+{
+	
+	padding:10px 0px;
+}
+.rightbody ul li
+{
+	display: inline-block;
+	font-size:18px;
+	padding:10px 5px;
+}
+.rightbody ul li a
+{
+	text-decoration: none;
+	color:#FFA500;
+}
+.rightbody ul li a:hover
+{
+    color: #FFFF00;/*#FFFF00浅黄*/
+}
+.zhengwen
+{
+	height:480px;
+}
+.zxzz
+{
+	line-height:1.5em;
+}

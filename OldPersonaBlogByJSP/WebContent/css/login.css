@@ -1,0 +1,25 @@
+html{margin:0;padding:0;width:240px;height:320px;}
+body{width:240px;height:320px;}
+h1{text-align:center;padding-top:19%}
+ul
+{	
+	padding-left:0px;
+	margin:0 auto;
+	width:186px;
+}
+li
+{
+
+	display: inline-block;
+	padding:10px 0;
+}
+.kuang
+{
+	width:120px;
+}
+.wenzi
+{
+	text-align:right;
+	width:60px;
+	float:left;
+}

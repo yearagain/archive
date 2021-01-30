@@ -1,0 +1,117 @@
+.middler
+{
+	width:1000px;
+	height:800px;
+	margin:0px auto;
+}
+.welcome
+{
+	background-color:#F0F0F0;
+	width:246px;
+	height:356px;
+	float:left;
+	padding:20px;
+	margin:2px;
+}
+.top
+{
+	background-color:#F0F0F0;
+	width:356px;
+	height:356px;
+	float:left;
+	padding:20px;
+	margin:2px;
+}
+.aboutme
+{
+	background-color:#F0F0F0;
+	width:246px;
+	height:356px;
+	float:left;
+	padding:20px;
+	margin:2px;
+}
+.hotmods
+{
+	background-color:#F0F0F0;
+	width:246px;
+	height:356px;
+	float:left;
+	padding:20px;
+	margin:2px;
+}
+.hotapps
+{
+	background-color:#F0F0F0;
+	width:356px;
+	height:356px;
+	float:left;
+	padding:20px;
+	margin:2px;
+}
+.flink
+{
+	background-color:#F0F0F0;
+	width:246px;
+	height:356px;
+	float:left;
+	padding:20px;
+	margin:2px;
+}
+.title
+{
+	font-size:24px;
+	color:#FFA500;
+	font-weight:bold;
+	padding-bottom:10px;
+}
+.flink ul li
+{
+	font-size:18px;
+	padding:10px 0;
+}
+.flink ul li a
+{
+	color:#FFA500;
+}
+.flink ul li a:hover
+{
+    color: #FFFF00;/*#FFFF00浅黄*/
+}
+.imgme
+{
+	padding:10px 10px 10px 0px;
+	width:100px;
+	height:100px;
+	float:left;
+}
+.aboutme p
+{
+	font-weight:bold;
+	font-size:20px;
+	color:#000099;/*000099超深蓝*/
+}
+.mexx
+{
+	line-height:1.5em;
+}
+.hot
+{
+	padding-top:30px;
+	height:130px;
+	border:1px solid #E0E0E0;
+}
+
+.top ul li
+{
+	font-size:18px;
+	padding:10px 0;
+}
+.top ul li a
+{
+	color:#FFA500;
+}
+.top ul li a:hover
+{
+    color: #FFFF00;/*#FFFF00浅黄*/
+}
